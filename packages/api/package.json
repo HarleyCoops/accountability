@@ -38,7 +38,7 @@
     "@accountability/core": "workspace:*",
     "@accountability/persistence": "workspace:*",
     "@effect/platform": "^0.94.0",
-    "effect": "^3.20.0"
+    "effect": "^3.21.2"
   },
   "devDependencies": {
     "@effect/platform-node": "^0.104.0",
