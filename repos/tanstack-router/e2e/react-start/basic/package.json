@@ -45,7 +45,7 @@
     "srvx": "^0.11.13",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.7.2",
-    "vite": "^7.3.2",
+    "vite": "^8.0.14",
     "vite-tsconfig-paths": "^5.1.4",
     "zod": "^3.24.2"
   }

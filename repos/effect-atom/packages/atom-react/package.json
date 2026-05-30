@@ -29,7 +29,7 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@types/scheduler": "^0.26.0",
-    "effect": "^3.20.0",
+    "effect": "^3.21.2",
     "jsdom": "^27.1.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
