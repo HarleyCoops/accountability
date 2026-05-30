@@ -16,7 +16,7 @@
     "@tanstack/solid-router": "^1.147.0",
     "@tanstack/solid-router-devtools": "^1.147.0",
     "@tanstack/solid-start": "^1.147.0",
-    "better-auth": "^1.6.2",
+    "better-auth": "^1.6.12",
     "clsx": "^2.1.1",
     "convex": "^1.28.2",
     "convex-solidjs": "^0.0.3",
@@ -30,7 +30,7 @@
     "@types/node": "^22.10.2",
     "combinate": "^1.1.11",
     "typescript": "^5.7.2",
-    "vite": "^7.3.2",
+    "vite": "^8.0.14",
     "vite-plugin-solid": "^2.11.10",
     "vite-tsconfig-paths": "^5.1.4"
   }
