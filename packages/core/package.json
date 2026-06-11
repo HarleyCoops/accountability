@@ -70,6 +70,6 @@
     "test": "cd ../.. && vitest run packages/core/test"
   },
   "dependencies": {
-    "effect": "^3.21.2"
+    "effect": "^3.21.3"
   }
 }
